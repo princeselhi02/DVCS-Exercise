@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVCS_Website", "DVCS_Website\DVCS_Website.csproj", "{14BA36BE-8AD1-421A-9AD8-C203F4C60916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVCSBackend", "DVCSBackend\DVCSBackend.csproj", "{9E56FD92-4016-45D7-9147-1B7C416CCBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14BA36BE-8AD1-421A-9AD8-C203F4C60916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BA36BE-8AD1-421A-9AD8-C203F4C60916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BA36BE-8AD1-421A-9AD8-C203F4C60916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BA36BE-8AD1-421A-9AD8-C203F4C60916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E56FD92-4016-45D7-9147-1B7C416CCBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E56FD92-4016-45D7-9147-1B7C416CCBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E56FD92-4016-45D7-9147-1B7C416CCBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E56FD92-4016-45D7-9147-1B7C416CCBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {155E35BA-5316-4C3D-A9A7-3F5738B89AF7}
+	EndGlobalSection
+EndGlobal
